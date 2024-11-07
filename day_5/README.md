@@ -33,9 +33,9 @@ The final images (interactive) where put together into a PPT (main image above).
 
 To interactively view the html files where which cattle is, please navigate to:
 
-- [Day time](https://github.com/EllenB/30DayMapChallenge/deployments/github-pages/day_cattle.html)
+- [Day time](https://ellenb.github.io/30DayMapChallenge//day_cattle.html)
 
-- [Night time](https://github.com/EllenB/30DayMapChallenge/deployments/github-pages/night_cattle.html)
+- [Night time](https://ellenb.github.io/30DayMapChallenge//night_cattle.html)
 
 Other:
 
