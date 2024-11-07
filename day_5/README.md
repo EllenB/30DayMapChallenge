@@ -19,7 +19,7 @@ Technologies used (more details in the notebook):
 
 - [Leafmap](https://leafmap.org/) package of Dr. Qiusheng Wu and more specifically [Leafmap.deckgl](https://leafmap.org/deckgl/)
 
-- [Lonboard](https://developmentseed.org/lonboard/latest/) framework from Development Seed
+- [Lonboard](https://developmentseed.org/lonboard/latest/) framework from Development Seed that works at the background of Leafmap/deckgl
 
 - Used tutorials of [Spatial Thoughts](https://spatialthoughts.com/courses/python-dataviz/), QGIS tutorial of [https://ecodiv.earth/](https://ecodiv.earth/post/animal_tracking-data/#ref-moritz2018) and [Dr Quisheng Wu](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPfb18kNe2luWX9xKg1233i9)
 
@@ -31,12 +31,12 @@ The final images (interactive) where put together into a PPT (main image above).
 
 2. [basics_lonboard_cattle]('notebooks/basics_lonboard_cattle.ipynb) - Main analysis using the Leaflet/DeckGL backend.
 
-To interactively view the html files, please navigate to:
+To interactively view the html files where which cattle is, please navigate to:
 
-- DAY ...
+- [Day time](https://github.com/EllenB/30DayMapChallenge/deployments/github-pages/day_cattle.html)
 
-- NIGHT ...
+- [Night time](https://github.com/EllenB/30DayMapChallenge/deployments/github-pages/night_cattle.html)
 
 Other:
 
-PDF of PPT
+[PDF with day and night slide](ppt/cattle.pdf)
