@@ -10,81 +10,81 @@ Most of the codes use Geopandas. In case I have used something else or something
 
 ## Day 1: Points (QGIS)
 
-![alt text](images_all\day_1.PNG)
+![alt text](images_all/day_1.PNG)
 
 ## Day 2: Lines (Python using OSMnx)
 
-![alt text](images_all\day_2.PNG)
+![alt text](images_all/day_2.PNG)
 
 ## Day 3: Polygons (QGIS)
 
-![alt text](images_all\day_3.png)
+![alt text](images_all/day_3.png)
 
 ## Day 4: Hexagons (Python/Tobler)
 
-![alt text](images_all\day_4.PNG)
+![alt text](images_all/day_4.PNG)
 
 ## Day 5: A journey (Python/Leafmap(Deckgl))
 
-![alt text](images_all\day_5.PNG)
+![alt text](images_all/day_5.PNG)
 
-[code](repo\30DayMapChallenge\day_05)
+[code](repo\30DayMapChallenge/day_05)
 
 Courtesy: codes based on tutorials of Ujaval Gandhi (Mapping and Data Visualization with Python Course) and Dr. Quisheng Wu.
 
 ## Day 6: Raster (Python/pystac)
 
-![alt text](images_all\day_7.PNG)
+![alt text](images_all/day_7.PNG)
 
 ## Day 7: Vintage style (QGIS)
 
-![alt text](images_all\day_6.PNG)
+![alt text](images_all/day_6.PNG)
 
 ## Day 8: HDX (Python)
 
-![alt text](images_all\day_8.PNG)
+![alt text](images_all/day_8.PNG)
 
 Code is adapted from the tutorials of Ujaval Gandhi (Mapping and Data Visualization with Python Course)
 
 ## Day 9: AI only (ChatGPT)
 
-![alt text](images_all\day_9.PNG)
+![alt text](images_all/day_9.PNG)
 
 ## Day 10: Pen and paper (hand drawing)
 
-![alt text](images_all\day_10.jpg)
+![alt text](images_all/day_10.jpg)
 
 ## Day 11: Arctic (QGIS)
 
-![alt text](images_all\day_11.png)
+![alt text](images_all/day_11.png)
 
 ## Day 12: Time and space (Python/xarray)
 
-![alt text](images_all\day_12.PNG)
+![alt text](images_all/day_12.PNG)
 
 This is an interactive map. Please click [here](https://ellenb.github.io/30DayMapChallenge/hotclimate.gif) to explore
 
 ## Day 13: Time and space (Python/datashader)
 
-![alt text](images_all\day_13.PNG)
+![alt text](images_all/day_13.PNG)
 
 ## Day 14: Collaboration (QGIS)
 
-![alt text](images_all\day_14.png)
+![alt text](images_all/day_14.png)
 
 ## Day 15: My data (QGIS)
 
-![alt text](images_all\day_15.png)
+![alt text](images_all/day_15.png)
 
 ## Day 16: Choropleth (Python)
 
-![alt text](images_all\day_16.png)
+![alt text](images_all/day_16.png)
 
 For the labeling, the material of Ujaval Gandhi (Mapping and Data Visualization with Python Course) was used. 
 
 ## Day 17: Collaborative map (done with family in Python/Folium)
 
-![alt text](images_all\day_17.PNG)
+![alt text](images_all/day_17.PNG)
 
 This is an interactive map. Please click [here](https://ellenb.github.io/30DayMapChallenge/element.html) to explore more.
 
