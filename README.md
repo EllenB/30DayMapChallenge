@@ -97,11 +97,79 @@ Based on the Youtube videos of Dr. Quisheng Wu.
 [code](day_18
 /bangalore_3d_buildings_b.ipynb)
 
-[video](https://x.com/ellenarun/status/1858868419405226292)
+[video](https://ellenb.github.io/30DayMapChallenge/video_3d.mp4)
 
-[video](https://ellenb.github.io/30DayMapChallenge/video_3d.mp4) - download needed
+## Day 19: Typography (QGIS)
 
-TO DO: Add HTML link 
+![alt text](images_all/day_19.PNG)
+
+## Day 20: Openstreetmap (QGIS)
+
+![alt text](images_all/day_20.png)
+
+## Day 21: Conflict (Python)
+
+![alt text](images_all/day_21.png)
+
+## Day 22: 2 colors (QGIS)
+
+![alt text](images_all/day_22.png)
+
+## Day 23: 2 Memory (QGIS)
+
+![alt text](images_all/day_23.png)
+
+## Day 24: Only circular shapes (Python)
+
+![alt text](images_all/day_24.PNG)
+
+## Day 25: Heat (Python)
+
+Rework on map of day 12
+
+![alt text](images_all/day_25.PNG)
+
+## Day 26: Map projections (Python)
+
+![alt text](images_all/day_26.PNG)
+
+## Day 27: Micromapping (QGIS)
+
+![alt text](images_all/day_27.png)
+
+## Day 28: The blue planet (Python/xarray)
+
+![alt text](images_all/day_28.PNG)
+
+## Day 29: Overture (Python/Lonboard)
+
+![alt text](images_all/day_29.PNG)
+
+[video](https://ellenb.github.io/30DayMapChallenge/restaurants_bangalore.mp4)
+
+[code](day_29/bangalore_restaurants.ipynb)
+
+## Day 30: The final map (Python/Lonboard)
+
+![alt text](images_all/day_30.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
