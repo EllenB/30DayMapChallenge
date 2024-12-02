@@ -68,6 +68,8 @@ This is an interactive map. Please click [here](https://ellenb.github.io/30DayMa
 
 ![alt text](images_all/day_13.PNG)
 
+[code](day_13/datashader_2.ipynb)
+
 ## Day 14: Collaboration (QGIS)
 
 ![alt text](images_all/day_14.png)
@@ -85,6 +87,8 @@ For the labeling, the material of Ujaval Gandhi (Mapping and Data Visualization 
 ## Day 17: Collaborative map (done with family in Python/Folium)
 
 ![alt text](images_all/day_17.PNG)
+
+[code](elements_code.ipynb)
 
 This is an interactive map. Please click [here](https://ellenb.github.io/30DayMapChallenge/element.html) to explore more.
 
