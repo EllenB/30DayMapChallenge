@@ -92,7 +92,7 @@ This is an interactive map. Please click [here](https://ellenb.github.io/30DayMa
 
 Based on the Youtube videos of Dr. Quisheng Wu.
 
-![alt text](images_all\day_18.PNG)
+![alt text](./images_all\day_18.PNG)
 
 TO SEE TO ADD HTML? 
 
