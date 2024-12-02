@@ -34,7 +34,7 @@ Courtesy: codes based on tutorials of Ujaval Gandhi (Mapping and Data Visualizat
 
 ## Day 6: Raster (Python/pystac)
 
-![alt text](images_all/day_7.PNG)
+![alt text](images_all/day_7.png)
 
 ## Day 7: Vintage style (QGIS)
 
@@ -42,7 +42,7 @@ Courtesy: codes based on tutorials of Ujaval Gandhi (Mapping and Data Visualizat
 
 ## Day 8: HDX (Python)
 
-![alt text](images_all/day_8.PNG)
+![alt text](images_all/day_8.png)
 
 Code is adapted from the tutorials of Ujaval Gandhi (Mapping and Data Visualization with Python Course)
 
@@ -94,12 +94,12 @@ Based on the Youtube videos of Dr. Quisheng Wu.
 
 ![alt text](images_all/day_18.PNG)
 
-TO SEE TO ADD HTML? 
+[gif](images_all/day_18_gif)
 
 [code](day_18
 /bangalore_3d_buildings_b.ipynb)
 
-[video](day_18/video_3d.mp4)
+[video](day_18/video_3d.mp4) - download needed
 
 TO DO: Add HTML link 
 
