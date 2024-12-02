@@ -28,7 +28,7 @@ Most of the codes use Geopandas. In case I have used something else or something
 
 ![alt text](images_all/day_5.PNG)
 
-[code](repo/30DayMapChallenge/day_05)
+[code](day_05)
 
 Courtesy: codes based on tutorials of Ujaval Gandhi (Mapping and Data Visualization with Python Course) and Dr. Quisheng Wu.
 
