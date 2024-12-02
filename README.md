@@ -94,12 +94,12 @@ Based on the Youtube videos of Dr. Quisheng Wu.
 
 ![alt text](images_all/day_18.PNG)
 
-[gif](images_all/day_18_gif)
-
 [code](day_18
 /bangalore_3d_buildings_b.ipynb)
 
-[video](day_18/video_3d.mp4) - download needed
+[video](https://x.com/ellenarun/status/1858868419405226292)
+
+[video](https://ellenb.github.io/30DayMapChallenge/video_3d.mp4) - download needed
 
 TO DO: Add HTML link 
 
