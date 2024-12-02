@@ -28,7 +28,7 @@ Most of the codes use Geopandas. In case I have used something else or something
 
 ![alt text](images_all/day_5.PNG)
 
-[code](repo\30DayMapChallenge/day_05)
+[code](repo/30DayMapChallenge/day_05)
 
 Courtesy: codes based on tutorials of Ujaval Gandhi (Mapping and Data Visualization with Python Course) and Dr. Quisheng Wu.
 
@@ -94,8 +94,7 @@ Based on the Youtube videos of Dr. Quisheng Wu.
 
 ![alt text](images_all/day_18.PNG)
 
-[code](day_18
-/bangalore_3d_buildings_b.ipynb)
+[code](day_18/bangalore_3d_buildings_b.ipynb)
 
 [video](https://ellenb.github.io/30DayMapChallenge/video_3d.mp4)
 
